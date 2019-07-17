@@ -1,6 +1,6 @@
 # WEbsite
 my_first_site
-how to use sublime
-how to use the gits
-how to use the terminal
-learning bootstrap
+1. how to use sublime
+2. how to use the gits
+3. how to use the terminal
+4. learning bootstrap
